@@ -20,11 +20,11 @@ function MenuProfile() {
         <li class="nav-item dropdown">
           <a
             class="nav-link dropdown-toggle menu-header"
-            href="#"
+            href="/"
             id="navbarDropdownMenuLink"
             data-toggle="dropdown"
           >
-            <img src={FotoPerfil} width="20" height="20" /> &nbsp;
+            <img src={FotoPerfil} width="20" height="20" alt="Profile" /> &nbsp;
             <span class="d-none d-sm-inline">Robson</span>
           </a>
           <div

@@ -1,5 +1,4 @@
 import React from "react";
-import FotoPerfil from "../../Assets/img/robson-250.png";
 import MenuTopBar from "../MenuTopBar";
 import Sidebar from "../Sidebar";
 
